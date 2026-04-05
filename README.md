@@ -1,3 +1,6 @@
+![.NET](https://img.shields.io/badge/.NET-10.0-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue)
+![JWT](https://img.shields.io/badge/JWT-Authentication-orange)
 # Todo API
 
 REST API на ASP.NET Core с JWT-аутентификацией и PostgreSQL.
